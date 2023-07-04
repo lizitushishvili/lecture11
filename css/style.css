@@ -1,0 +1,174 @@
+h1{
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+}
+h2{
+    color: #000;
+    font-size: 49px;
+    font-weight: 400;
+}
+.section1{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.description{
+    display: inline-flex;
+    vertical-align: top;
+    margin-top: 3.2%;
+    width: 756px;
+    height: 298px;
+}
+.description input {
+    width: 756px;
+    height: 298px;
+    background: #F8F8F8;
+}
+.infofield{
+    display: inline-flex;
+    vertical-align: top;
+    margin-top: 3.2%;
+    margin-left: 1.2%;
+    width: 371px;
+    height: 300px;
+}
+.infofield input{
+    width: 370px;
+    height: 59px;
+}
+.firstone{
+    background: #F8F8F8;
+}
+.withspace{
+    margin-top: 19px;
+    background: #F8F8F8;
+} 
+.button{
+    margin-top: 24px;
+    background-color:#5968f4 ;
+    color:white;
+}
+.shape{
+    width: 68px;
+    height: 68px;
+    background-color: #5968f4;
+    border-radius: 50%; 
+    margin-left: 144px;
+}
+i{
+    margin-top: 34px;
+    margin-left: 19px;
+}
+.mail{
+    display: block;
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-left: 87px;
+}
+h3{
+    color: #4E4D54;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-left: 152px;
+}
+.informationplc{
+    margin-top: 51px;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+.tel, .adress{
+    display: block;
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-left: 125px;
+}
+.section2{
+    margin-bottom: 39px;
+}
+.section2 div{
+    margin-top: 74px;
+    margin-left: 144px;
+}
+.photodiv{
+    display: flex;
+    width: 1320px;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+}
+.hotels{
+    width: 300px;
+    display:inline-block;
+    margin-right: 191px;
+}
+h5{
+    color: #FFF;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: normal;
+}
+.abthotels{
+    color: #99999A;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 23px;
+    vertical-align: top;
+}
+.hotels img{
+    margin-top: 23px;
+}
+h6{
+    margin-bottom: 32px;
+    color: #FFF;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.links{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 86px;
+}
+.privacy{
+    display: inline-block;
+    vertical-align: top;
+}
+.forspaces{
+    padding-top: 63px;
+    padding-left: 141px;
+    padding-bottom: 111px;
+}
+.cntinfo div a{
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 14px;
+}
+.cntinfo{
+    display: inline-block;
+    margin-left: 124px;
+    vertical-align: top;
+}
+p{
+    margin-left: 20px;
+    color: #FFF;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+li{
+    margin-bottom: 10px;
+}
